@@ -62,15 +62,16 @@ body {
 }
 
 
-
 .media img {
   display: block;
-  height: 200px;
-  padding: 10px;
+  height: 250px;
   float: right;
-
+  padding: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
-#top-row {
-  background-color: black;
+.job {
+  font-weight: bold;
+  color: #1f324a;
 }
