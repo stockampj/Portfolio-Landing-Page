@@ -5,10 +5,12 @@ body {
   padding-right: 20px;
 }
 
-.img-thumbnail {
+.link-logo {
   display: block;
+  height: 50px;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 15%;
   border: none;
 }
 
@@ -33,6 +35,17 @@ h1 {
   color: white;
 }
 
+.panel-title {
+  font-size: 20px;
+  text-align: right;
+  font-weight: bold;
+}
+
+h4 {
+  font-weight: bold;
+  color: #4a6587;
+}
+
 h6 {
   font-weight: bold;
   text-align: center;
@@ -47,14 +60,13 @@ body {
   color: #404040;
 }
 
+.list-group {
+  padding-top: 5px;
+}
+
 .list-group-item {
   font-weight: bold;
 }
-
-.project-row {
-
-}
-
 
 .media img {
   display: block;
