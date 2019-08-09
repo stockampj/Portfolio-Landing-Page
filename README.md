@@ -1,37 +1,32 @@
-# _{Application Name}_
+# _Joel Stockamp's Portfolio Page_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This page was made as place to store projects created in github for an intro to programming course from Epicodus, {8/9/2019}_
 
-#### By _**{List of contributors}**_
+#### By _**Joel Stockamp**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This project uses the skills we've been taught in the first week of a course to create and style a page using html, css and bootstrap._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Open a web browser and paste the following url to the address bar_
+* _https://stockampj.github.io/Portfolio-Landing-Page/_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_One image is not displaying properly on the hosted site. It displays appropriately in my local environment. I will check this out._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Please feel free to reach me at stockampj@gmail.com if you need any help._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_This project was created using Git Bash, Atom, Chrome, Inkscape and the styling format from Bootstrap._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT license*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2019 **_Joel Stockamp_**
