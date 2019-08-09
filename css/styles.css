@@ -11,10 +11,11 @@ body {
   margin-right: 50px;
 }
 
-.link-icon {
+.img-thumbnail {
   display: block;
-  margin: auto;
-  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  border: none;
 }
 
 h1 {
@@ -39,4 +40,8 @@ body {
 
 .panel-body {
   color: #404040;
+}
+
+.list-group-item {
+  font-weight: bold;
 }
