@@ -60,3 +60,17 @@ body {
 .project-row {
 
 }
+
+
+
+.media img {
+  display: block;
+  height: 200px;
+  padding: 10px;
+  float: right;
+
+}
+
+#top-row {
+  background-color: black;
+}
