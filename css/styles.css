@@ -1,5 +1,5 @@
 body {
-  background-color: #3b3734;
+  background-color: #999999;
 }
 
 .profile-photo {
@@ -9,7 +9,12 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   margin-right: 50px;
+}
 
+.link-icon {
+  display: block;
+  margin: auto;
+  height: 100px;
 }
 
 h1 {
@@ -19,9 +24,19 @@ h1 {
   margin-bottom: 10%;
   font-family: sans-serif;
   font-weight: bold;
-  color: #d6cac1;
+  color: white;
 }
 
-p {
+h6 {
+  font-weight: bold;
+  text-align: center;
+}
+
+
+body {
   color: white;
+}
+
+.panel-body {
+  color: #404040;
 }
