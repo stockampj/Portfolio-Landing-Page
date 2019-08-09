@@ -2,13 +2,13 @@ body {
   background-color: #999999;
 }
 
-.profile-photo {
-  display: block;
-  height: 300px;
-  margin-left: : 50px;
+#projects {
   margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 50px;
+}
+
+.joel {
+  float: right;
+  height: 100px;
 }
 
 .img-thumbnail {
@@ -44,4 +44,8 @@ body {
 
 .list-group-item {
   font-weight: bold;
+}
+
+.project-row {
+
 }
