@@ -1,15 +1,9 @@
 body {
   background-color: #999999;
 }
-
 .title-page {
   padding-right: 20px;
 }
-
-#projects {
-  margin-top: 20px;
-}
-
 
 .img-thumbnail {
   display: block;
