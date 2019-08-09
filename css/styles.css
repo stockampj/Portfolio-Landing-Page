@@ -2,14 +2,14 @@ body {
   background-color: #999999;
 }
 
+.title-page {
+  padding-right: 20px;
+}
+
 #projects {
   margin-top: 20px;
 }
 
-.joel {
-  float: right;
-  height: 100px;
-}
 
 .img-thumbnail {
   display: block;
@@ -17,6 +17,17 @@ body {
   margin-right: auto;
   border: none;
 }
+
+.joel {
+  display: block;
+  height: 200px;
+  padding: 10px;
+  background-color: white;
+  margin-top: 10%;
+  margin-left: 2%;
+  float: right
+}
+
 
 h1 {
   text-align: right;
@@ -48,4 +59,8 @@ body {
 
 .project-row {
 
+}
+
+.info {
+  float: left
 }
