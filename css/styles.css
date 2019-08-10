@@ -1,17 +1,22 @@
 body {
   background-color: #999999;
 }
-.title-page {
-  padding-right: 20px;
+
+#top-row {
+  margin-bottom: 20px;
 }
 
-.link-logo {
+.title-page {
+  padding-left: 20px;
   display: block;
-  height: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 15%;
-  border: none;
+  text-align: left;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
 }
 
 .joel {
@@ -19,31 +24,19 @@ body {
   height: 200px;
   padding: 10px;
   background-color: white;
-  margin-top: 10%;
-  margin-left: 2%;
-  float: right
+  margin-top: 25px;
+  margin-right: 2%;
+  float: left;
 }
 
 
-h1 {
-  text-align: right;
-  font-size: 80px;
-  margin-top: 10%;
-  margin-bottom: 10%;
-  font-family: sans-serif;
-  font-weight: bold;
-  color: white;
-}
-
-.panel-title {
-  font-size: 20px;
-  text-align: right;
-  font-weight: bold;
-}
-
-h4 {
-  font-weight: bold;
-  color: #4a6587;
+.link-logo {
+  display: block;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin:
+  border: none;
 }
 
 h6 {
@@ -58,10 +51,6 @@ body {
 
 .panel-body {
   color: #404040;
-}
-
-.list-group {
-  padding-top: 5px;
 }
 
 .list-group-item {
