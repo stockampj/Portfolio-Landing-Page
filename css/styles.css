@@ -58,15 +58,14 @@ h4 {
 
 .project-tools {
   float: right;
-  padding-top: 10px;
-  padding-right: 12%;
+  padding-top: 15px;
 }
 
 .project-link {
   display: block;
-  float: right;
-  margin-left: 5%;
-  margin-right: 0px;
+  float: left;
+  margin-left: 0px;
+  margin-right: 3%;
   padding-top: 5px;
 }
 
@@ -110,8 +109,12 @@ body {
 
 .media {
   display: block;
-  height: 150px;
+  width: 46%;
   float: left;
-  margin: 5px;
+  margin: 2%;
   padding: 5px;
+}
+
+.panel {
+  border-radius: 0px;
 }
