@@ -1,5 +1,13 @@
 body {
   background-color: #999999;
+  background-image: url(../media/hood.jpg);
+  background-size: cover;
+  background-position: center bottom;
+  color: white;
+}
+
+.panel-body {
+  
 }
 
 p {
@@ -82,10 +90,6 @@ h6 {
   text-align: center;
 }
 
-
-body {
-  color: white;
-}
 
 .panel-body {
   color: #404040;
